@@ -1,0 +1,16 @@
+07f0c2b3e7ca71260c7134b70881bc4a *DESCRIPTION
+5f2ec305aa2377d5a5533dde97bdb6e3 *NAMESPACE
+daa3edc7999dc561dc7df5e76ec92317 *R/compiled_code_tslstmx.R
+2afa985af00e2675029da247c8ccfb56 *man/best_model_on_validation.Rd
+141b051f0a6506e976c4f7b9d9d6998e *man/check_and_format_data.Rd
+509d1449097d1a8d459990c04461a327 *man/compare_predicted_vs_actual.Rd
+cb727f8bd5048db780ee72385b25cec3 *man/convert_to_numeric_matrices.Rd
+21189f4c0ad062ea4e77baeb39290af7 *man/convert_to_tensors.Rd
+1aee59ababb66004c3ff006d46754d75 *man/define_early_stopping.Rd
+d5fddc52828b8e22057927682ae77b03 *man/embed_columns.Rd
+5a12b16a814113c5daf2d89bb612c3cc *man/forecast_best_model.Rd
+c83394beb2a090c30db3b4558c0000a3 *man/initialize_tensorflow.Rd
+f1577a6827720871bffe1f665b632b2e *man/predict_y_values.Rd
+7a4eaa8030ef9cead13f4b951de5f73b *man/reshape_for_lstm.Rd
+853264fbf8688b43c5b3029fc0dfc43c *man/split_data.Rd
+8ef6516b0e1f140b53e47214f40800d7 *man/ts_lstm_x_tuning.Rd
